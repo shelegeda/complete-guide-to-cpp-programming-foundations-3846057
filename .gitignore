@@ -2,3 +2,10 @@
 node_modules
 .tmp
 npm-debug.log
+.vs/
+*.exe
+*.obj
+*.pdb
+*.ilk
+out/
+build/
